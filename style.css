@@ -1,0 +1,17 @@
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 120px;
+    color: rgb(14, 14, 87);
+}
+.recipe,
+.button {
+    margin: 0 auto;
+    text-align: center;
+}
+.recipe {
+    font-size: 80px;
+}
+.button {
+    font-size: 50px;
+}
